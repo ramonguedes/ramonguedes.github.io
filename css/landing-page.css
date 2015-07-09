@@ -1,0 +1,37 @@
+body {
+  font-family: 'Open Sans', Helvetica, Arial;
+}
+
+.main-nav {
+  overflow: hidden;
+}
+
+.title {
+  color: #333;
+  height: 100px;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+.main-nav h1 {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.main-nav h2 {
+  font-weight: 300;
+  font-size: 17px;
+  margin-top: 10px;
+}
+
+.projects-list {
+  padding: 40px 0;
+}
+
+.project-item {
+  margin-bottom: 20px;
+}
+
+.project-item img {
+  width: 100%;
+}
